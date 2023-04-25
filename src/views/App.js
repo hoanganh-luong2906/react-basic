@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <myComponent />
+        <myComponent></myComponent>
       </header>
 
     </div>
